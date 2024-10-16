@@ -1,3 +1,45 @@
 /* @theme fhooe */
 
 @import 'default';
+
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6 {
+    color: rgb(62, 185, 171) !important;
+}
+
+section.hide-header header,
+section.hide-footer footer,
+section.hide-page-number::after {
+    display: none;
+}
+
+section.center {
+    text-align: center;
+}
+
+section.dark {
+    color: white !important;
+    background-color: gray !important;
+}
+
+section.dark header,
+section.dark footer {
+    color: lightgray;
+}
+
+section.dark::after {
+    color: lightgray;
+}
+
+section.dark h1,
+section.dark h2,
+section.dark h3,
+section.dark h4,
+section.dark h5,
+section.dark h6 {
+    color: gold !important;
+}
