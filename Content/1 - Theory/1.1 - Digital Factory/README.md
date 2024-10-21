@@ -39,6 +39,14 @@ paginate: true
 
 ---
 
+![Main Manufacturing Innovations Timeline](../../../Images/Manufacturing_timeline.png)
+
+---
+
+![Technologies Mindmap](../../../Images/Mindmap_Overview.png)
+
+---
+
 # 1 - Digital Factory Overview
 
 ### Definition:
