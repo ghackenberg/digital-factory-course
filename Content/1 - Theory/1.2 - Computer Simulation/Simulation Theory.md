@@ -11,7 +11,7 @@ paginate: true
 
 # Computer Simulation
 
-## An overview of Modern Manufacturing
+## An overview of simulation principles and technologies
 **DI Stefan Hattinger BSc**
 
 ---
